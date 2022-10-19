@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: flaskshop-plugin-conversations
+Version: 0.1
+Summary: A private messaging plugin for FlaskShop
+Home-page: https://github.com/hjlarry/flask-shop
+Author: hjlarry
+Author-email: hjlarry@163.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Web Environment
+Classifier: Environment :: Plugins
+Classifier: Framework :: Flask
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+
+UNKNOWN
+

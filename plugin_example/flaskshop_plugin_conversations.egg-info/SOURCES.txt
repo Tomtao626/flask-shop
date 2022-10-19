@@ -1,0 +1,11 @@
+setup.py
+conversations/__init__.py
+conversations/forms.py
+conversations/models.py
+conversations/utils.py
+conversations/views.py
+flaskshop_plugin_conversations.egg-info/PKG-INFO
+flaskshop_plugin_conversations.egg-info/SOURCES.txt
+flaskshop_plugin_conversations.egg-info/dependency_links.txt
+flaskshop_plugin_conversations.egg-info/entry_points.txt
+flaskshop_plugin_conversations.egg-info/top_level.txt

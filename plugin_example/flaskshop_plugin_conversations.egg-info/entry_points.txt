@@ -1,0 +1,3 @@
+[flaskshop_plugins]
+conversations = conversations
+
